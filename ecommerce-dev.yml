@@ -1,5 +1,5 @@
 token:
-  expiration-time: 8640000022
+  expiration-time: 86400000
   secret: user-token-secret-key-dev
 
 gateway:
